@@ -9,11 +9,7 @@ tags:
 # **Formatting Standards**
 
 
-{==
-
 ## **Punctuation**
-
-==}
 
 - Commas between individual Prices and Mountings (Mtg)
 - Semicolon between Mountings (Mtg) and Pricing

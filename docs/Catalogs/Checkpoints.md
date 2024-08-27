@@ -8,28 +8,24 @@ tags:
 
 # **Checkpoints**
 
-LAGO Workflow Status Checkpoints that designers work on:
-
-
 {==
 
-## **02-Initial Layout** (Page Building)
+LAGO Workflow Status Checkpoints that designers work on
 
 ==}
+
+
+## **02-Initial Layout** (Page Building)
 
 - Reference the Working Page (WP) number at beginning of project before there are Folio Page numbers
 - Print spreads on PRN005 (printer)
     - Tabloid Spread (NO scale to fit)
 
 
----
+!!! DIVIDER ""
 
-
-{==
 
 ## **04-Initial Document Revision** (Corrections / Notes)
-
-==}
 
 - Mostly fixing layout and items based on notes from Merchants
 
@@ -40,14 +36,10 @@ LAGO Workflow Status Checkpoints that designers work on:
 - Pink/Green Comments - Merchants
 
 
----
+!!! DIVIDER ""
 
-
-{==
 
 ## **08-Final Edits** (Color Proofs)
-
-==}
 
 !!! warning "*Last time we touch it before printing!*"
 

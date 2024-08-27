@@ -9,11 +9,7 @@ tags:
 # **Automation Workflows**
 
 
-{==
-
 ## **Conditional Text**
-
-==}
 
 ### **Conditions**
 
@@ -34,14 +30,10 @@ Create “Sets” to easily show specific Conditions
 Panel menu > Show Options > Set: Create New Set…
 
 
----
+!!! DIVIDER ""
 
-
-{==
 
 ## **Auto Captions**
-
-==}
 
 !!! danger "re-watch"
 
@@ -50,52 +42,36 @@ Using Metadata from images
 Text boxes TOUCHING image boxes, OR group them together
 
 
----
+!!! DIVIDER ""
 
-
-{==
 
 ## **Bullets & Numbering**
-
-==}
 
 !!! danger "re-watch"
 
 Tabs are every half inch by default
 
 
----
+!!! DIVIDER ""
 
-
-{==
 
 ## **Data Merge**
 
-==}
-
-Use data from Excel file
+- Use data from Excel file
 
 
----
+!!! DIVIDER ""
 
-
-{==
 
 ## **Find Change to Automate Text Cleanup**
-
-==}
 
 !!! danger "re-watch"
 
 
----
+!!! DIVIDER ""
 
-
-{==
 
 ## **Automate with Styles**
-
-==}
 
 - Use “sub” styles that are based on a “main” style
     - Body Text

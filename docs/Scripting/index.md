@@ -10,21 +10,14 @@ tags:
 # **Scripting**
 
 
-{==
-
 ## **Installing a Script**
-
-==}
-
-
----
+- Basic steps here
 
 
-{==
+!!! DIVIDER ""
+
 
 ## **Sample Scripts**
-
-==}
 
 **Paragraph Styles**
 

@@ -9,23 +9,15 @@ tags:
 # **Page Building**
 
 
-{==
-
 ## **Sections / Headers**
-
-==}
 
 - Each section ***Header*** should be linked to first SKU in that section in order to auto-populate text
 
 
----
+!!! DIVIDER ""
 
-
-{==
 
 ## **Elements and Components**
-
-==}
 
 - ***Tabs*** and ***Footers*** are on the Page Element (Master Page)
 - Everything else is tied to ***item*** on page
@@ -35,14 +27,10 @@ tags:
 ### **Copying Component Templates from other Projects**
 
 
----
+!!! DIVIDER ""
 
-
-{==
 
 ## **Images**
-
-==}
 
 1. Size image boxes FIRST
 2. Select correct “Component”
@@ -52,14 +40,10 @@ tags:
     If item image is 25% scale, Detail box would be scaled to 50%
 
 
----
+!!! DIVIDER ""
 
-
-{==
 
 ## **Colors**
-
-==}
 
 !!! note "Try to stick to 3-color values"
     - One of the CMYK values should equal 0
@@ -70,14 +54,10 @@ tags:
 *Can we have Color Swatches labeled?*
 
 
----
+!!! DIVIDER ""
 
-
-{==
 
 ## **Tables**
-
-==}
 
 - Set Column Number: “Number of Columns” in top toolbar in InDesign
 - Hard Return after each “block” of data

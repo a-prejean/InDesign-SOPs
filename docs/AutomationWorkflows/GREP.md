@@ -10,36 +10,24 @@ tags:
 # **GREP**
 
 
-{==
-
 ## **Paragraph Styles**
-
-==}
 
 - When certain text needs a specific character style
 
 
----
+!!! DIVIDER ""
 
-
-{==
 
 ## **Find/Change dialog box**
-
-==}
 
 - When certain text needs to be added, removed, or replaced
 - Change to: $1 (Found Text 1)
 
 
----
+!!! DIVIDER ""
 
-
-{==
 
 ## **Expressions**
-
-==}
 
 | GREP | Description | Notes |
 | :----- | :---------- | :---- |
@@ -60,28 +48,24 @@ tags:
 - If “cook” is listed first, it would skip over “cooks” and “cooking”
 
 
----
+!!! DIVIDER ""
 
-
-{==
 
 ## **Formatting Fractions**
 
-==}
+    \d+/\d+
 
-\d+/\d+
+    Any White Space - finds space at end of previous line?
 
-Any White Space - finds space at end of previous line?
+    \s\d+/\d+
 
-\s\d+/\d+
+    Posix [[=a=]] - Winner?
 
-Posix [[=a=]] - Winner?
+    [[= =]]\d+/\d+
 
-[[= =]]\d+/\d+
+    Posix [[:space:]] - finds space at end of previous line?
 
-Posix [[:space:]] - finds space at end of previous line?
-
-[[:space:]]\d+/\d+
+    [[:space:]]\d+/\d+
 
 
 ---
