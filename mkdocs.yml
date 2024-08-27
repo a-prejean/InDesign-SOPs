@@ -6,7 +6,7 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate #myScheme
-      primary: black # blue grey
+      primary: indigo
       accent: indigo
       toggle:
         icon: material/lightbulb-outline
@@ -14,7 +14,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default #myScheme
-      primary: indigo #black, blue grey
+      primary: indigo
       accent: indigo
       toggle:
         icon: material/lightbulb 
