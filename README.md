@@ -13,7 +13,7 @@ SOPs for InDesign
 - Use ***mkdocs build*** and copy contents of created ***site*** folder to server
 
 
-# ========================================================== #
+---
 
 
 # Examples
@@ -165,15 +165,13 @@ Some Text
     TEXT
 
 
+---
 
 # Dividers
 !!! DIVIDER ""
 
 
-
-
-# ========================================================== #
-
+---
 
 # Future Additions
 
